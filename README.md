@@ -8,13 +8,13 @@
 2. Generate the genesis block
 
     - Run puppeth:
-    ![puppeth]()
+    ![puppeth](https://github.com/eayca/Blockchain-BuildingBlocks/blob/main/18.Blockchain_Directory/Screenshots/puppeth_1.png?raw=true)
 
     - For Which accounts are allowed to seal? : paste both nodes addresses
 
     - For Which accounts should be pre-funded? section : paste both nodes addresses
 
-    - To Specify your chain/network ID : give 3 digit ID number
+    - To Specify your chain/network ID : give 3 digit ID number(333)
 
     - For What would you like to do? : select Manage existing genesis and then Export genesis configurations
 
@@ -38,7 +38,7 @@
     - Select Change Network
 
     - Select Add Custom Node
-    ![customnode]()
+    ![customnode](https://github.com/eayca/Blockchain-BuildingBlocks/blob/main/18.Blockchain_Directory/Screenshots/setting_custom_network.png?raw=true)
 
 
 6. MyCrypto - Transaction
@@ -48,16 +48,16 @@
     - Select Node1 keystore file
 
     - After accessing your wallet, make a transaction to your Node2 address
-    ![nodeone]()
+    ![nodeone](https://github.com/eayca/Blockchain-BuildingBlocks/blob/main/18.Blockchain_Directory/Screenshots/sending_tx.png?raw=true)
 
     - TX Status
-    ![txstatus]()
+    ![txstatus](https://github.com/eayca/Blockchain-BuildingBlocks/blob/main/18.Blockchain_Directory/Screenshots/tx_status.png?raw=true)
 
     - Transaction - Pending
-    ![pending]()
+    ![pending](https://github.com/eayca/Blockchain-BuildingBlocks/blob/main/18.Blockchain_Directory/Screenshots/tx_status_pending.png?raw=true)
 
         - May need to stop Node1 and Node2 command and restart it to transaction to be successful. 
     - Transaction - Successful
-    ![successful]()
+    ![successful](https://github.com/eayca/Blockchain-BuildingBlocks/blob/main/18.Blockchain_Directory/Screenshots/tx_status_sucessful.png?raw=true)
 
 
